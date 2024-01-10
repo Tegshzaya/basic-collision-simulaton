@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6468bb72-f864-4853-b9d5-aefc5f25daf4": {
+      "ProjectGuid": "6468bb72-f864-4853-b9d5-aefc5f25daf4",
+      "DisplayName": "audio test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
